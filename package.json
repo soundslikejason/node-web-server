@@ -6,6 +6,7 @@
   "author": "Jason Leong <soundslikejason@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "4.14.0"
+    "express": "4.14.0",
+    "hbs": "4.0.0"
   }
 }
